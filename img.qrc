@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>join-512.png</file>
+        <file>basic1-170_paper_plane-512.png</file>
+        <file>Screenshot_2018-07-08_20-57-34.png</file>
+    </qresource>
+</RCC>
